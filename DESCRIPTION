@@ -1,0 +1,11 @@
+Package: mallinfo
+Version: 0.1-0
+Title: Memory allocation information from glibc
+Author: Simon Urbanek <simon.urbanek@r-project.org>
+Maintainer: Simon Urbanek <simon.urbanek@r-project.org>
+Description: Simple interface to memory allocation information as provided by glibc
+License: GPL-2
+URL: http://www.rforge.net/mallinfo/
+SystemRequirements: mallinfo() function (glibc or compatible)
+NeedsCompilation: yes
+Packaged: 2018-01-26 21:47:36 UTC; svnuser
